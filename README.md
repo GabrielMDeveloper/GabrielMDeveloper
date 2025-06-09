@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou @GabrielMDeveloper;
 - 👀 sou interessado em seguir como profissional em programação;
-- 🌱 Atualmente estou aprendendo: HTML, CSS, JS, PHP e MYSQL;
-- 💞️ Procuro colaborar com a comunidade de desenvolvimento
+- 🌱 Atualmente estou aprendendo: HTML, CSS, JS, PHP, MYSQL e KOTLIN;
+- 💻 Procuro colaborar com a comunidade de desenvolvimento
 - 📫 Você pode entrar em contato comigo via: E-mail (gabriel.mb280@gmail.com)
 
 <!---
